@@ -13,12 +13,9 @@ In this application users can send text messages and join group with other users
 <ul>
     <li>
     Clone this repository
-    Navigate to the root directory and replace APP_ID, REGION and AUTH_KEY with your CometChat App ID, Region and Auth Key in src/consts.js file
-    Install dependencies and run the app
-
-    npm install
-    npm start 
-    </li>
+    <li>Install dependencies and run the app
+    <li>npm install
+    <li>npm start 
 </ul>
 
 <h3>Screenshots</h3>
